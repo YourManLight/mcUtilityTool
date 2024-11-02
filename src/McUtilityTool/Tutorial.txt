@@ -1,0 +1,14 @@
+1. install Minecraft bedrock from microsoft store
+2. extract the McUnclockTool
+3. open the folder then run "staticUnlock.ps1" { right click and click run with powershell }
+4. done
+ 
+    if error : 
+{
+    staticUnlock.ps1 cannot be loaded because running scripts is disabled on this system
+
+}
+
+Then 
+    open powershell with admin perms then execute this command 
+    : Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
