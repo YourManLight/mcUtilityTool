@@ -1,6 +1,7 @@
 This will unlock your MC with just a script file
 
 # usage 
+- make sure your minecraft is not running
 - open powershell with admin
 - type this command and run it
   ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser```
